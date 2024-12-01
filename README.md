@@ -5,11 +5,11 @@ all years:
 [polyaoc-2023](https://github.com/tckmn/polyaoc-2023),
 [polyaoc-2024](https://github.com/tckmn/polyaoc-2024)
 
-(these languages are, in order: Ruby)
+(these languages are, in order: Haskell, Ruby)
 
-|    | rb        |
-| -  | -         |
-| 01 | [✓][01rb] |
+|    | hs        | rb        |
+| -  | -         | -         |
+| 01 | [✓][01hs] | [✓][01rb] |
 
 how to run the programs:
 
@@ -18,3 +18,4 @@ how to run the programs:
 note that everything expects to be run from the directory containing `input`
 
 [01rb]:  https://github.com/tckmn/polyaoc-2024/tree/main/01/rb
+[01hs]:  https://github.com/tckmn/polyaoc-2024/tree/main/01/hs
